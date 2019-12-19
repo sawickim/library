@@ -1,0 +1,17 @@
+
+Harry Potter ;1998; J.K Rowling ; 8-222-1234-2123-1
+Wladca Pierscieni ;2001; J.R.R Tolkien ; 1-314-6754-2433-4
+Hobbit ;1990; J.R.R Tolkien ; 6-298-7264-2873-3
+Opowiesci z Narnii ;1999; C.S Lewis ; 8-222-1234-2123-1
+Solaris ;1980; Stanislaw Lem ; 5-772-5646-3534-7
+Diuna ;1982; Frank Herbert ; 2-009-2124-2123-6 
+Gra o Tron ;2003; George R.R. Martin ; 8-552-6546-6374-7
+Ogrody Ksiezyca ;1992; Steven Erikson ; 5-465-6756-8365-6
+Dzienniki Gwiazdowe ;1987; Stanislaw Lem ; 6-241-2643-7235-2
+Czarna Kompania ;2009; Glen Cook ; 2-623-7425-6222-8
+Jezdzcy Smokow ;1998; Anne Mc Caffrey ; 8-325-3452-2343-6
+Oko Swiata ;2003; Robert Jordan ; 4-532-4622-7231-5
+Smoczy Tron ;2001; Tad Williams ; 4-965-2566-1245-5
+Gra Endera ;1997; Orson Scott Card ; 8-6333-214-2213-4
+Rok 1984 ;1975; George Orwell ; 8-654-8234-37777
+Romeo i Julia;1981;shekspir;1-2122-3213-3211
